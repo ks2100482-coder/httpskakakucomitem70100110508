@@ -1,0 +1,26 @@
+{
+    "name": "https://kakaku.com/item/70100110508/",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "makecode-minecraft-space": "github:microsoft/makecode-minecraft-space#v0.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.1.27",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
